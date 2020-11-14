@@ -1,0 +1,11 @@
+name: http
+version: 0.0.0
+author: timqian
+org: Serverless, Inc.
+description: Deploy any nodejs server
+keywords: tencent, serverless, nodejs
+repo: https://github.com/serverless-components/tencent-http
+readme: https://github.com/serverless-components/tencent-http/tree/master/README.md
+license: MIT
+main: ./src
+webDeployable: true

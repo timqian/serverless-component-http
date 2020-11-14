@@ -1,0 +1,15 @@
+org: orgDemo
+app: appDemo
+stage: dev
+component: express
+name: expressDemo
+
+inputs:
+  src:
+    src: ./
+    exclude:
+      - .env
+  apigatewayConf:
+    protocols:
+      - http
+      - https
