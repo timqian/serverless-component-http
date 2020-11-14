@@ -28,7 +28,7 @@ http
   })
   .listen(8080);
 
-// The only thing required is to export your server in the entryFile
+// You will need to export your server
 module.exports = http;
 ```
 
